@@ -1,5 +1,14 @@
+<div align="center">
+
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
+
  
+</div>
+
+
+ <div align="center">
+
+  
  # 💫 About Me:
 👋 Hi, I'm Fatima Mustafa!<br> 💻 A passionate Software  Engineering Student from Pakistan
 
@@ -26,4 +35,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=fatimamjk&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+</div>
+<div align="center">
+ 
+![snake gif](https://github.com/fatimamjk/fatimamjk/blob/output/github-snake-dark.svg)
+
+</div>
