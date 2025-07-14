@@ -37,8 +37,3 @@
 
 
 </div>
-<div align="center">
- 
-![snake gif](https://github.com/fatimamjk/fatimamjk/blob/output/github-snake-dark.svg)
-
-</div>
