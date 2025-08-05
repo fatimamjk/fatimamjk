@@ -10,7 +10,7 @@
 
   
  # 💫 About Me:
-👋 Hi, I'm Fatima Mustafa!<br> 💻 A Software  Engineering Student from Pakistan
+👋 Hi, I'm Fatima Mustafa!<br> 💻 A Software Engineer from Pakistan
 
 
 ## 🌐 Socials:
